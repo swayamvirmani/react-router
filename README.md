@@ -22,18 +22,7 @@ Handling 404 Not Found pages
 
 🔧 Vite  React App
 
-🗂️ Folder Structure
 
-pass-gen/
-├── public/
-├── src/
-│   ├── components/       # Shared/reusable components
-│   ├── pages/            # Route-based pages
-│   ├── App.js            # Route definitions
-│   └── index.js          # Entry point
-├── .gitignore
-├── package.json
-└── README.md
 🚀 Getting Started
 1. Clone the Repository
 2. Install Dependencies
